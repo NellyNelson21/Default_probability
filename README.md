@@ -1,4 +1,4 @@
 # Default_probability
-This was task before interview for intern position.
+That was task for intern Data Science position.
 
 All code implimented in Notebook
